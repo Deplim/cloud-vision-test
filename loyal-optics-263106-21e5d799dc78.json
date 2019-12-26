@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loyal-optics-263106",
+  "private_key_id": "21e5d799dc780c9ea5c70d2125e4240079668723",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk7XaxNXT5SPSz\nV9kGfQKMbOHZ0nIEhwmWRsS3sKPIfxEVG3DvbnIxl4imiX1opWxzB3hrqv7R2rzq\nmlhLuxkNRWdyQVHl8QWhUrhPB1UkT+RfINRdly2EHXoTHjRilU2sxhW70RJxhwfG\ndyWr8acLUO4nY+iTgFVPKIBO/uTLYUV3eF0F4qZu2/cxfTiVtxwIvyXawYq+NiIA\n7VC8ynLgILSWuyz/hcXhO66WaDEXQhr2LgwSp26cWwaVuW9ikepTYZK15AsdV29u\nXz/cc509lNJkRZ/CuJvk7tXo0mA3GpnxFk8fTNzJMruPxlKon5ZnG3Q0056He90u\nhQJ+kacHAgMBAAECggEAIIXRN422lOftlSYYHl7tbzqTaOxGXp0wZ0lqRlzXV1Sz\nTim8ogJyE1Rx9oE7UTT5x08sUHMGT+SmB09LZReuj37lsNKvrzvRo+fXf4IPKJt2\nicnEBvamW5yic32rz9roV88x/vjx/aAmiNz6+UasbZ9Wbz8U4G1YpUTz1GAQRwiE\nVFhd0XZEznC0j4euocnnS0L3ImhzP1K0hiDum7mhQ+5+Fj1sPWaiXqqnjNX3IkE/\nxMyRJx8Xz35XmN8NTjoMk8+FChFX7Q3pVs+HWdHFiIaaYCrhJFLI/TF1Hp5u0s0A\nS+5aDB3NvjjiYSDtO+kQNJA5Poa8cdOZDOX/cPNCOQKBgQDn2DoNZCMh3aeFw3i6\nhlDlzY7Qzu1DJo45Rr3UYFPpKPdi/2ZopixxZXNRonfug8lC5sjGVZXS2K0emoCD\nTJOIvOW/v1YOBWlKQV323h8DrO//ypQdvNAd1a7MbvJq3XlC+hm6g/iXNbPidRYF\n17xJoAbJOkqQUipnBy5d+LDYeQKBgQC2HGv1Fr9dLFFp3jXQNUh1D8rVZnucr5iK\nWefDV9pON+Jfc+ca/xyzGDuRNXnSykuhN+NgbWH5cuA6lIKoQTq7miV667s9/UfX\nh8+/9WyIKrwAQSSFolmngpQW+/VsJjMwxk2rJl7h2Q1FmOKMSW3NIHMrgOtO34Pl\nuiu4Uq2bfwKBgQDScStogk99avOncCGCtW5y2R3cHSexvypzhOnD/1fLGNtMqeTr\n8oH+wAZnwCA6iLbDmjX+CSuAghrJ35XtGDIGeOfWH7fd7D2BIEpJTZ87N9t1BA1j\n3MHPgukyOTajl7p8+AUojqezoRRR5tOBpCwNbEsclmOeEmbYs+T7eUQUiQKBgAiR\n1dK2u1KbH0moF0gw+bPohlb8d5yr9rWr/WgH3lIH9zMetSVkE+mpnkP7DDyLIHv5\nsU18WDvw1/RpwKxCRY1Gd7UNGsaUAKl3zqLt3amauTYZ2qofNbDYSDe8q5PnSEln\nS4heSeC+4g0AYMjRO8WHXWQSsQAJLJ/G3v/RhDHpAoGAX/0n9kofe1TPr9c523Mj\n57/K0VXHhJeS2OBBf9ogvPGRdMEHQklxLiCThd5caqPG468/FC9ShKAktNcwMzeG\np9ypN7d9RtUWy234S5k4LJ82Hjy7TIVlqm7B+768635dFFcRGinJuRAZBbLgGUUH\n2N4tJkGlgBv3UnymmRCoLNg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-vision-test@loyal-optics-263106.iam.gserviceaccount.com",
+  "client_id": "101321583101017068381",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-vision-test%40loyal-optics-263106.iam.gserviceaccount.com"
+}

@@ -5,10 +5,17 @@ import time
 # Imports the Google Cloud client library
 from google.cloud import vision
 from google.cloud.vision import types
-path="C:\\temp_file\\tant1.jpg"
-uri="http://bjone.kr/bj/cosmos100_yg_open.jpg"
+
+path="/Users/wisesolution/Documents/GitHub/cloud-vision-test/tant1.jpg"
+cre_path="/Users/wisesolution/Documents/GitHub/cloud-vision-test/loyal-optics-263106-21e5d799dc78.json"
+
+if not os.path.exists(path):
+    print("no path file")
+if not os.path.exists(cre_path):
+    print("no cre_path file")
+
 # Instantiates a client
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:\\temp_file\\loyal-optics-263106-259c63e5e6e9.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=cre_path
 
 def detect_text(path):
     start = time.time()
